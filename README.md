@@ -79,7 +79,7 @@ Follow these steps to set up and run the project locally:
 
     ```bash
     git clone https://github.com/Ank0610/AIRBNB-Major-Project.git
-    cd Airbnb_Project
+    cd Major Project -airbnb
     ```
 
 2. **Install Dependencies:**
