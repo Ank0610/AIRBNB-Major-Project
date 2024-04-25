@@ -78,7 +78,7 @@ Follow these steps to set up and run the project locally:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/Ank0610/Airbnb-Project.git
+    git clone https://github.com/Ank0610/AIRBNB-Major-Project.git
     cd Airbnb_Project
     ```
 
